@@ -1,0 +1,2 @@
+nu dela
+daa
