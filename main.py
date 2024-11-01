@@ -9,7 +9,7 @@ import time
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Salam, {name}')  # Press ⌘F8 to toggle the breakpoint.
-time.sleep(5)
+time.sleep(3)
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
